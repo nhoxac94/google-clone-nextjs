@@ -3,6 +3,9 @@ const nextConfig = {
   experimental: {
     appDir: true,
   },
-}
+  images: {
+    domains: ['mobileworld.com.vn'],
+  },
+};
 
-module.exports = nextConfig
+module.exports = nextConfig;
