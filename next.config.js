@@ -4,7 +4,7 @@ const nextConfig = {
     appDir: true,
   },
   images: {
-    domains: ['mobileworld.com.vn'],
+    domains: ['mobileworld.com.vn', 'upload.wikimedia.org'],
   },
 };
 
